@@ -157,6 +157,7 @@ footer .top-footer{
 	background:#00CAB6;
 	padding-top: 25px;
 	padding-bottom: 25px;
+	display: flex;
 }
 footer .top-footer .item h3{
 	color: #FFFFFF;
